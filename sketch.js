@@ -116,7 +116,6 @@ function draw() {
     obstaclesGroup.setlifetimeEach(-1);
     cloudsGroup.setlifetimeEach(-1);
 
-
      obstaclesGroup.setVelocityXEach(0);
      cloudsGroup.setVelocityXEach(0);
    }
